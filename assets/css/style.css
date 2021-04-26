@@ -1,0 +1,55 @@
+.logo {
+    font-family: 'Lobster', cursive;
+
+}
+
+.main {
+    font-family: 'Cabin', sans-serif;;
+}
+
+hr {
+    background-color: black;
+}
+
+.porciones {
+    font-size: 20px;
+}
+
+.btn {
+    border: 1px solid gray;
+
+}
+
+.pizza img {
+    object-fit: cover;
+}
+
+.carousel-item img {
+    display: inline-block;
+}
+
+  .carousel-indicators {
+    top: 105%;
+  }
+  
+  .carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: gray;
+  }
+
+.recipe p {
+    line-height:150%;
+}
+
+.newsletter {
+    line-height:130%;
+    padding-top: 8%;
+    padding-bottom: 8%;
+    font-family: 'Cabin', sans-serif;
+}
+
+.newsletter p {
+    font-size: 20px;
+}
